@@ -17,3 +17,8 @@ Microsoft Excel
 
 Outcome:
 Improved visibility of inventory levels and cost tracking.
+
+
+
+<img width="1441" height="562" alt="image" src="https://github.com/user-attachments/assets/380f6fc9-4ec5-4b9d-8162-e35353e079a9" />
+
